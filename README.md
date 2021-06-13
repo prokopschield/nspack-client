@@ -1,0 +1,2 @@
+# nspack-client
+NodeSite Packager
